@@ -1,0 +1,17 @@
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\Timus1014.ProductOfDigits.Tests.dll
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\Timus1014.ProductOfDigits.Tests.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\nunit.framework.dll
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\Testing.dll
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\Timus1014.ProductOfDigits.exe
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\Testing.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\Timus1014.ProductOfDigits.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\bin\Debug\nunit.framework.xml
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\obj\Debug\Timus1014.ProductOfDigits.Tests.csprojResolveAssemblyReference.cache
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\obj\Debug\Timus1014.ProductOfDigits.Tests.dll
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1014.ProductOfDigits.Tests\obj\Debug\Timus1014.ProductOfDigits.Tests.pdb

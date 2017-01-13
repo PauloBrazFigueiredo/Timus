@@ -1,0 +1,6 @@
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1877.BicycleCodes\bin\Debug\Timus1877.BicycleCodes.exe.config
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1877.BicycleCodes\bin\Debug\Timus1877.BicycleCodes.exe
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1877.BicycleCodes\bin\Debug\Timus1877.BicycleCodes.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1877.BicycleCodes\obj\Debug\Timus1877.BicycleCodes.csprojResolveAssemblyReference.cache
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1877.BicycleCodes\obj\Debug\Timus1877.BicycleCodes.exe
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1877.BicycleCodes\obj\Debug\Timus1877.BicycleCodes.pdb

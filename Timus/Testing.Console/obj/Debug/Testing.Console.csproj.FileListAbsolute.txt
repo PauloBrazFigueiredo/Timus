@@ -1,0 +1,12 @@
+C:\Users\paulo.figueiredo\documents\visual studio 2015\Projects\Testing\Testing.Console\bin\Debug\Testing.Console.exe.config
+C:\Users\paulo.figueiredo\documents\visual studio 2015\Projects\Testing\Testing.Console\bin\Debug\Testing.Console.exe
+C:\Users\paulo.figueiredo\documents\visual studio 2015\Projects\Testing\Testing.Console\bin\Debug\Testing.Console.pdb
+C:\Users\paulo.figueiredo\documents\visual studio 2015\Projects\Testing\Testing.Console\obj\Debug\Testing.Console.csprojResolveAssemblyReference.cache
+C:\Users\paulo.figueiredo\documents\visual studio 2015\Projects\Testing\Testing.Console\obj\Debug\Testing.Console.exe
+C:\Users\paulo.figueiredo\documents\visual studio 2015\Projects\Testing\Testing.Console\obj\Debug\Testing.Console.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Testing.Console\bin\Debug\Testing.Console.exe.config
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Testing.Console\bin\Debug\Testing.Console.exe
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Testing.Console\bin\Debug\Testing.Console.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Testing.Console\obj\Debug\Testing.Console.csprojResolveAssemblyReference.cache
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Testing.Console\obj\Debug\Testing.Console.exe
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Testing.Console\obj\Debug\Testing.Console.pdb

@@ -1,0 +1,6 @@
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1149.SinusDances\bin\Debug\Timus1149.SinusDances.exe.config
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1149.SinusDances\bin\Debug\Timus1149.SinusDances.exe
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1149.SinusDances\bin\Debug\Timus1149.SinusDances.pdb
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1149.SinusDances\obj\Debug\Timus1149.SinusDances.csprojResolveAssemblyReference.cache
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1149.SinusDances\obj\Debug\Timus1149.SinusDances.exe
+C:\Users\paulo.figueiredo\Documents\Visual Studio 2015\Projects\Timus\Timus1149.SinusDances\obj\Debug\Timus1149.SinusDances.pdb
